@@ -1,0 +1,8 @@
+{
+    "name": "inShots Clone",
+    "short_name": "IC",
+    "start_url": ".",
+    "background_color": "red",
+    "theme_color": "white",
+    "display" : "standalone"
+}
